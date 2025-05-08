@@ -7,7 +7,8 @@
   💡 Focused on full-stack development, embedded systems, and smart integrations.
 </p>
 
----
+<!-- Wave Divider -->
+<img src="https://raw.githubusercontent.com/SandunPahasara/SandunPahasara/main/assets/wave-top.svg" alt="Wave divider" width="100%" />
 
 <!-- Skills -->
 ### 🛠️ Technical Skills
@@ -28,41 +29,44 @@
 #### 🧰 Tools & Platforms  
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
----
+<!-- Wave Divider -->
+<img src="https://raw.githubusercontent.com/SandunPahasara/SandunPahasara/main/assets/wave-mid.svg" alt="Wave divider" width="100%" />
 
 <!-- GitHub Stats -->
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SandunPahasara&show_icons=true&theme=default" alt="Sandun's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SandunPahasara&show_icons=true&theme=default" alt="GitHub Stats" />
   <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com?user=SandunPahasara&theme=default" alt="GitHub Streak" />
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SandunPahasara&layout=compact" alt="Top Languages" />
 </p>
 
----
+<!-- Wave Divider -->
+<img src="https://raw.githubusercontent.com/SandunPahasara/SandunPahasara/main/assets/wave-mid.svg" alt="Wave divider" width="100%" />
 
-<!-- Featured Projects -->
+<!-- Projects -->
 ### 🚀 Featured Projects
 
 - 🔒 **Laser & Motion Security System**  
-  A digital circuit design project that uses motion detection, laser sensors, and manual override logic for real-time intruder alerts.
+  A digital security project using laser detection, motion sensors, and override control with real-time alarm logic.
 
 - 🧵 **Smart Garment Manufacturing System**  
-  Combines IoT machine tracking, barcode-based production monitoring, fingerprint-based labor tracking, and real-time dashboards.
+  Full-stack solution combining barcode tracking, IoT, fingerprint attendance, and analytics dashboards.
 
-- 📦 **Party Item eCommerce Platform**  
-  Web platform with categorized party product listings (birthdays, weddings, office parties) with Laravel backend and custom admin panel.
+- 🛍️ **Party Item eCommerce Platform**  
+  Web store for event items like cakes, flowers, and décor – powered by PHP, MySQL & Laravel.
 
 - 📸 **SPPIKKA – Travel & Mini Vlogs**  
-  My personal YouTube channel featuring cinematic mini vlogs, creative edits, and travel storytelling.
+  YouTube channel sharing beautiful, cinematic travel stories and life’s mini adventures.
 
----
+<!-- Wave Divider -->
+<img src="https://raw.githubusercontent.com/SandunPahasara/SandunPahasara/main/assets/wave-mid.svg" alt="Wave divider" width="100%" />
 
 <!-- Contact -->
 ### 📬 Let's Connect
@@ -72,21 +76,23 @@
 - 🐦 [Twitter](https://twitter.com/SandunPahasara)  
 - 🌐 [SPPIKKA on YouTube](https://www.youtube.com/@SPPIKKA)
 
----
+<!-- Wave Divider -->
+<img src="https://raw.githubusercontent.com/SandunPahasara/SandunPahasara/main/assets/wave-mid.svg" alt="Wave divider" width="100%" />
 
 <!-- Fun Element -->
 ### 🎯 Current Focus
 
-- Learning **IoT integrations** for industrial applications  
-- Enhancing skills in **React + Tailwind CSS**  
-- Exploring **AI-powered project tools**  
-- Working on building a **study planning web app** for students
+- Learning 📡 **IoT for smart factories**  
+- Mastering ⚛️ **React + Tailwind**  
+- Building 👨‍💻 **a student study planner app**  
+- Exploring 🤖 **AI tools for productivity**
 
----
+<!-- Wave Divider -->
+<img src="https://raw.githubusercontent.com/SandunPahasara/SandunPahasara/main/assets/wave-bottom.svg" alt="Wave divider" width="100%" />
 
 <!-- Visitor Counter -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SandunPahasara&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=SandunPahasara&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
 <!-- Footer -->
