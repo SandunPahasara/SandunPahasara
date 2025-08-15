@@ -3,9 +3,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=0099FF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Hi+there+%F0%9F%91%8B%2C+I'm+Sandun+Pahasara;Full-Stack+Developer+%26+UI%2FUX+Designer" alt="Typing SVG" />
 </div>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/SandunPahasara/SandunPahasara/main/assets/wave-top.png" width="100%" />
-</div>
+
 
 <!-- About Section with Animation -->
 <div align="center">
@@ -27,7 +25,6 @@
   
 ### 🎨 Design & User Experience
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)
 ![Sketch](https://img.shields.io/badge/Sketch-FFB387?style=for-the-badge&logo=sketch&logoColor=black)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 
@@ -53,8 +50,7 @@
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 ### 🗄️ Backend & Database
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
+
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
@@ -67,8 +63,11 @@
 
 </div>
 
-<!-- Animated Wave Divider -->
-<img src="https://raw.githubusercontent.com/SandunPahasara/SandunPahasara/main/assets/wave-animated.gif" width="100%" />
+<!-- Animated Divider -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12&height=2" width="100%" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2000&pause=1000&color=0099FF&center=true&vCenter=true&width=1000&lines=───────────────────────%E2%9C%A8+TECHNICAL+EXPERTISE+%E2%9C%A8───────────────────────" alt="Section Divider" />
+</div>
 
 ## 📊 GitHub Analytics
 
@@ -86,7 +85,11 @@
 </div>
 
 <!-- Professional Projects Section -->
-<img src="https://raw.githubusercontent.com/SandunPahasara/SandunPahasara/main/assets/wave-mid.svg" alt="Wave divider" width="100%" />
+<!-- Animated Section Divider -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6&height=2" width="100%" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2000&pause=1000&color=00D4AA&center=true&vCenter=true&width=1000&lines=───────────────────────⚡+GITHUB+ANALYTICS+⚡───────────────────────" alt="Analytics Divider" />
+</div>
 
 ## 🚀 Featured Projects & Solutions
 
@@ -103,7 +106,11 @@
 - 📊 **Data Visualization Tools** – Interactive dashboards and analytics platforms
 
 <!-- Professional Services -->
-<img src="https://raw.githubusercontent.com/SandunPahasara/SandunPahasara/main/assets/wave-mid.svg" alt="Wave divider" width="100%" />
+<!-- Projects Section Divider -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=18&height=2" width="100%" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2000&pause=1000&color=FF6B6B&center=true&vCenter=true&width=1000&lines=───────────────────────🚀+FEATURED+PROJECTS+🚀───────────────────────" alt="Projects Divider" />
+</div>
 
 ## 💡 Services I Offer
 
@@ -119,7 +126,11 @@
 </div>
 
 <!-- Content & Social with Professional Touch -->
-<img src="https://raw.githubusercontent.com/SandunPahasara/SandunPahasara/main/assets/wave-mid.svg" alt="Wave divider" width="100%" />
+<!-- Services Section Divider -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24&height=2" width="100%" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2000&pause=1000&color=FFD93D&center=true&vCenter=true&width=1000&lines=───────────────────────💡+SERVICES+I+OFFER+💡───────────────────────" alt="Services Divider" />
+</div>
 
 ## 🎯 Professional Presence
 
@@ -134,7 +145,11 @@
 </div>
 
 <!-- Professional Contact -->
-<img src="https://raw.githubusercontent.com/SandunPahasara/SandunPahasara/main/assets/wave-mid.svg" alt="Wave divider" width="100%" />
+<!-- Content Section Divider -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=30&height=2" width="100%" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2000&pause=1000&color=A8E6CF&center=true&vCenter=true&width=1000&lines=───────────────────────🎯+PROFESSIONAL+PRESENCE+🎯───────────────────────" alt="Content Divider" />
+</div>
 
 ## 📬 Let's Connect & Collaborate
 
@@ -158,7 +173,9 @@
 - 📚 Mentoring & Knowledge Sharing
 
 <!-- Bottom Wave -->
-<img src="https://raw.githubusercontent.com/SandunPahasara/SandunPahasara/main/assets/wave-bottom.svg" alt="Wave divider" width="100%" />
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:B19CD9,100:0099FF&height=120&section=footer" width="100%" />
+</div>
 
 <!-- Profile Stats -->
 <div align="center">
