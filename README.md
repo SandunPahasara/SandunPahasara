@@ -1,19 +1,18 @@
 <!-- Animated Header -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=0099FF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Hi+there+%F0%9F%91%8B%2C+I'm+Sandun+Pahasara;Full-Stack+Developer+%26+UI%2FUX+Designer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=0099FF&center=true&vCenter=true&multiline=true&width=700&height=120&lines=Hi+there+👋,+I'm+Sandun+Pahasara;Full-Stack+Developer+%26+UI/UX+Designer;Video+Editor+%26+Content+Creator" alt="Typing SVG" />
 </div>
-
-
 
 <!-- About Section with Animation -->
 <div align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Coding GIF" />
   
-  ### 🚀 Passionate Full-Stack Developer & Creative Designer
+  ### 🚀 Passionate Full-Stack Developer, Creative Designer & Video Editor
   
   <p>
     💡 Crafting seamless digital experiences through clean code and intuitive design<br/>
     🎨 Bridging the gap between functionality and aesthetics<br/>
+    🎬 Creating compelling visual stories through professional video editing<br/>
     ⚡ Transforming ideas into scalable, user-centric solutions
   </p>
 </div>
@@ -27,6 +26,12 @@
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Sketch](https://img.shields.io/badge/Sketch-FFB387?style=for-the-badge&logo=sketch&logoColor=black)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+
+### 🎬 Video Editing & Motion Graphics
+![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)
+![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white)
+![DaVinci Resolve](https://img.shields.io/badge/DaVinci%20Resolve-233A51?style=for-the-badge&logo=davinci-resolve&logoColor=white)
+![CapCut](https://img.shields.io/badge/CapCut-000000?style=for-the-badge&logo=capcut&logoColor=white)
 
 ### 🌐 MERN Stack Development
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -50,7 +55,6 @@
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 ### 🗄️ Backend & Database
-
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
@@ -66,7 +70,7 @@
 <!-- Animated Divider -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12&height=2" width="100%" />
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2000&pause=1000&color=0099FF&center=true&vCenter=true&width=1000&lines=───────────────────────%E2%9C%A8+TECHNICAL+EXPERTISE+%E2%9C%A8───────────────────────" alt="Section Divider" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2000&pause=1000&color=0099FF&center=true&vCenter=true&width=1000&lines=───────────────────────✨+TECHNICAL+EXPERTISE+✨───────────────────────" alt="Section Divider" />
 </div>
 
 ## 📊 GitHub Analytics
@@ -99,6 +103,12 @@
 - 📱 **Responsive Web Solutions** – Mobile-first approach with modern frameworks and libraries
 - ⚡ **Performance Optimization** – Speed and efficiency focused development practices
 
+### 🎬 Video Production & Editing
+- 📹 **Professional Video Editing** – Corporate videos, promotional content, and social media campaigns
+- 🎥 **Motion Graphics & Animation** – Dynamic visual effects and engaging animated content
+- 🎞️ **Post-Production Workflows** – Color grading, audio enhancement, and visual storytelling
+- 📺 **Content Creation** – YouTube tutorials, educational content, and brand storytelling
+
 ### 🔧 Technical Projects
 - 🔒 **Advanced Security Systems** – IoT integration with laser detection and motion sensors
 - 🏭 **Smart Manufacturing Solutions** – Barcode tracking, fingerprint systems, and analytics dashboards
@@ -116,12 +126,12 @@
 
 <div align="center">
   
-| 🎨 UI/UX Design | 🌐 Full-Stack Development | 📱 Responsive Design |
-|:---------------:|:-------------------------:|:-------------------:|
-| User Research & Analysis | MERN Stack Applications | Mobile-First Approach |
-| Wireframing & Prototyping | RESTful API Development | Cross-Browser Compatibility |
-| Design Systems | Database Design & Optimization | Progressive Web Apps |
-| Usability Testing | DevOps & Deployment | Performance Optimization |
+| 🎨 UI/UX Design | 🌐 Full-Stack Development | 📱 Responsive Design | 🎬 Video Production |
+|:---------------:|:-------------------------:|:-------------------:|:-------------------:|
+| User Research & Analysis | MERN Stack Applications | Mobile-First Approach | Professional Video Editing |
+| Wireframing & Prototyping | RESTful API Development | Cross-Browser Compatibility | Motion Graphics & VFX |
+| Design Systems | Database Design & Optimization | Progressive Web Apps | Color Grading & Audio |
+| Usability Testing | DevOps & Deployment | Performance Optimization | Content Strategy |
 
 </div>
 
@@ -134,14 +144,39 @@
 
 ## 🎯 Professional Presence
 
-### 📺 Tech Content & Tutorials
+### 🌍 Blog & Travel Content
 <div align="center">
-  <a href="https://www.youtube.com/channel/UCISkc5v6u3ZHn9kw0IlQP0Q">
+  <a href="https://youtube.com/@sandunpahasara?si=rv3BXs6IgeVS7zdn">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
   </a>
-  <a href="https://www.tiktok.com/@sp_pikka?_t=ZS-8yrSGCuVPVQ&_r=1">
+  <a href="https://www.tiktok.com/@sp_pikka?_t=ZS-8zN4VTx7nqK&_r=1">
     <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok"/>
   </a>
+  <a href="https://www.instagram.com/sp_pikka?igsh=ZjU2MTUzcTgzNnFo&utm_source=qr">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  <a href="https://www.facebook.com/share/1HjP3ndkkt/?mibextid=wwXIfr">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
+  </a>
+</div>
+
+
+### 🎥 Video Editing Expertise
+
+
+**✨ Professional Tools & Specializations**
+- 🏆 **Adobe Premiere Pro** – Advanced workflows & multi-camera productions  
+- ⚡ **Adobe After Effects** – Motion graphics, VFX & compositing  
+- 🎨 **DaVinci Resolve** – Color grading & audio post-production  
+- 📱 **CapCut** – Mobile editing & social content optimization  
+
+**🎯 Areas of Expertise**
+- 📹 Corporate & Commercial Productions  
+- 🎓 Educational & Tutorial Videos  
+- 📱 Social Media & Short-form Content  
+- 🎬 Promotional & Marketing Campaigns  
+- 🎵 Music Videos & Creative Projects  
+
 </div>
 
 <!-- Professional Contact -->
@@ -154,22 +189,25 @@
 ## 📬 Let's Connect & Collaborate
 
 <div align="center">
-  <a href="mailto:sandunpahasara@gmail.com">
+  <a href="mailto:s.pahasara2001@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
-  <a href="https://www.linkedin.com/in/sandunpahasara/">
+  <a href="https://www.linkedin.com/in/sandun-pahasara-weerasinghe-b03462306/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://twitter.com/SandunPahasara">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+  <a href="https://wa.me/94765509618">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
   </a>
 </div>
 
+</div>
+
 ### 💬 Open for:
-- 🚀 Freelance Projects
+- 🚀 Freelance Projects (Development & Video Editing)
 - 💼 Full-time Opportunities
 - 🤝 Collaboration on Open Source
 - 🎨 UI/UX Design Consultations
+- 🎬 Video Production & Post-Production
 - 📚 Mentoring & Knowledge Sharing
 
 <!-- Bottom Wave -->
@@ -185,11 +223,11 @@
 
 <!-- Animated Footer -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=4000&pause=1000&color=0099FF&center=true&vCenter=true&width=600&lines=%22Design+is+not+just+what+it+looks+like+and+feels+like.%22;%22Design+is+how+it+works.%22+%E2%80%93+Steve+Jobs;%22Code+is+poetry+written+for+machines+to+understand%22" alt="Animated Quote" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=4000&pause=1000&color=0099FF&center=true&vCenter=true&width=700&lines=%22Design+is+not+just+what+it+looks+like+and+feels+like.%22;%22Design+is+how+it+works.%22+%E2%80%93+Steve+Jobs;%22Code+is+poetry+written+for+machines+to+understand%22;%22Every+frame+tells+a+story%2C+every+edit+shapes+the+narrative%22" alt="Animated Quote" />
 </div>
 
 ---
 
 <div align="center">
-  <em>✨ Crafting digital experiences that matter, one line of code at a time ✨</em>
+  <em>✨ Crafting digital experiences and visual stories that matter, one line of code and one frame at a time ✨</em>
 </div>
